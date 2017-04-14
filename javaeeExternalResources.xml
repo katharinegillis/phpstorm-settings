@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:magento:framework:Event/etc/events.xsd" location="Y:/projects/magento2-ubuntu/magento2/vendor/magento/framework/Event/etc/events.xsd" />
+    <resource url="urn:magento:framework:Module/etc/module.xsd" location="Y:/projects/magento2-ubuntu/magento2/vendor/magento/framework/Module/etc/module.xsd" />
+    <resource url="urn:magento:framework:ObjectManager/etc/config.xsd" location="Y:/projects/magento2-ubuntu/magento2/vendor/magento/framework/ObjectManager/etc/config.xsd" />
+    <resource url="urn:magento:module:Magento_Webapi:etc/webapi.xsd" location="D:/projects/test/magento2-ubuntu/magento2/vendor/magento/module-webapi/etc/webapi.xsd" />
+  </component>
+</application>

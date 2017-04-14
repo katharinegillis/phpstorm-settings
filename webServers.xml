@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f85b788-1b8a-435e-ae78-c837bc1c2e68" name="Work laptop" url="http://localdev.magento2.atmosol.net">
+        <fileTransfer port="0" mountedRoot="Y:\projects\magento2-ubuntu" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
