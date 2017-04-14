@@ -4,6 +4,7 @@
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping pattern="ansible/inventories/vagrant" type="PLAIN_TEXT" />
+      <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
