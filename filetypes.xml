@@ -4,6 +4,7 @@
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping ext="json-bak" type="JSON" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
+      <mapping pattern="README" type="Markdown" />
       <mapping pattern="localhost" type="PLAIN_TEXT" />
       <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
