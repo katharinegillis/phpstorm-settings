@@ -15,6 +15,7 @@
       <mapping pattern="ansible/inventories/vagrant" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="deploy_db" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="Perl" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
